@@ -38,3 +38,7 @@ execute
 ./main_app
 ```
 
+
+# how does compile proccess works in c/c++
+https://kamino.hatenablog.com/entry/c%2B%2B-principle-of-build-library#sec2
+
